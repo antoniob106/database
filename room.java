@@ -12,7 +12,8 @@ class room {
                 }
             }
         }
+        // checked on mysql database on putty, works!
         create = create.substring(0, create.length() - 2);
-        System.out.println("INSERT INTO Room (RoomName) VALUES " + create + ";");
+        System.out.println(create + ";");
     }
 }
