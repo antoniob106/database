@@ -1,0 +1,11 @@
+import java.io.BufferedWriter;
+import java.io.FileWriter;
+import java.io.IOException;
+
+public class FileHandling {
+    private String file = "";
+
+    FileHandling(String f) {
+        this.file = f;
+    }
+}
