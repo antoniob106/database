@@ -6,7 +6,7 @@ import java.util.List;
 
 public class Instructor {
     public static void main(String[] args) {
-        File myFile = new File("Instructor");
+        File myFile = new File("Instructor.txt");
         List<String> dataList = new ArrayList<>();
         try {
             Scanner scanner = new Scanner(myFile);            
