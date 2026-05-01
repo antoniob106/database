@@ -3,9 +3,18 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 public class FileHandling {
-    private String file = "";
+    private String file;
 
-    FileHandling(String f) {
+    public FileHandling(String f) {
         this.file = f;
+    }
+
+    public void writeToFile(String content) {
+        try (BufferedWriter writer = new BufferedWriter(new FileWriter(file, true))) {
+            writer.write(content);
+            writer.newLine();
+        } catch (IOException e) {
+            System.err.println("Error writing to file: " + e.getMessage());
+        }
     }
 }
