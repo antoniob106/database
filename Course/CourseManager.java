@@ -40,6 +40,6 @@ class Course {
     }
         @Override
     public String toString() {
-        return String.format("[%03d] %s %d", ID, name, CourseType);
+        return String.format("[%03d] %s [%d]", ID, name, CourseType);
     }
 }
