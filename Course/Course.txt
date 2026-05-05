@@ -1,0 +1,111 @@
+AP Biology|1
+AP Environmental|1
+AP Psychology|1
+Bioorganic Chemistry|3
+Genetics|3
+Introduction to Neuroscience|3
+Living Environment|2
+Living Environment Lab|2
+Environmental Sustainability|3
+Regents Chemistry|2
+AP Chemistry|1
+Chemical Engineering|3
+Organic Chemistry|3
+MICA|3
+Quantitative Analysis|3
+Forensics|3
+Regents Physics|2
+Regents Physics Labs|2
+AP Physics 1|1
+AP Physics 2|1
+AP Physics C (Mechanics)|1
+AP Physics C (E/M) Astronomy Modern Physics|1
+Common Core Algebra|2
+Common Core Geometry|2
+Common Core Algebra II|2
+Pre-Calculus|3
+Calculus (non-AP)|3
+AP Calculus (AB)|1
+AP Calculus (BC)|1
+AP Statistics|1
+Multivariable Calculus|3
+Math Research|3
+Linear Algebra|3
+AP Computer Science Principles (10th Grade)|1
+AP Computer Science A|1
+Big Data: Warehousing & Analytics|3
+Computer Science & Engineering Home|3
+Cyber Security|3
+Digital Electronics (Project Lead the Way)|3
+Digital Systems Design|3
+Fundamentals of IT Infrastructure|3
+Green Building Construction|3
+PLTW EDD|3
+Statics|3
+Strength of Materials|3
+Web Development|3
+9th Grade English|2
+10th Grade English|2
+10th Grade: AP Capstone Seminar|1
+11th Grade English|2
+11th Grade: AP English Language & Composition|1
+12th Grade: AP Capstone Research|1
+12th Grade: AP English Literature & Composition|1
+12th Grade: Drama|3
+12th Grade: Creative Writing|3
+12th Grade: Film & Literature|3
+12th Grade: Graphic Novels|3
+12th Grade: Journalism|3
+12th Grade: Life, Love & Death|3
+12th Grade: Mystery, Horror & the Supernatural|3
+12th Grade: Science Fiction & Fantasy|3
+12th Grade: Yearbook|3
+Elective: The Survey (Tech's Student Newspaper)|3
+Cultural Anthropology|3
+Dollars and Sense|3
+Economics|3
+Participation in Government|3
+Physical Anthropology|3
+Sociology|3
+9th Grade Global History|3
+10th Grade Regents Global History|2
+11th Grade Regents American History|2
+AP American History|1
+AP Comparative Goverment|1
+AP European History|1
+AP Human Geography|1
+AP Macroeconomics|1
+AP Microeconomics|1
+AP Psychology|1
+AP US Government|1
+AP World History|1
+Chinese|2
+AP Chinese Language and Culture|1
+French|2
+AP French Language and Culture|1
+German|2
+AP German Language and Culture|1
+Italian|2
+AP Italian Language and Culture|1
+Spanish|2
+Spanish IV - Pre-AP|3
+AP Spanish Language and Culture|1
+AP Spanish Literature and Culture|1
+AP Music Theory|1
+Basic Strings|3
+Beginning Musicianship and Chorus|3
+Collaborative Piano/Choral Accompaniment|3
+Concert Band|3
+Concert Choir|3
+Intermediate Orchestra|3
+Jazz Band|3
+Junior Band|3
+Orchestra|3
+String Orchestra|3
+Symphonic Band|3
+Treble Choir|3
+Tech Chorale|3
+Spring Musical|3
+Stageworks|3
+Health|2
+General PE|2
