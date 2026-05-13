@@ -1,0 +1,15 @@
+Quiz 1|Minor
+Quiz 2|Minor
+Reflection Activity|Minor
+Participation Check|Minor
+Homework Assignment 1|Minor
+Homework Assignment 2|Minor
+Practice Activity|Minor
+Discussion Post|Minor
+Worksheet Activity|Minor
+Observation Task|Minor
+Progress Check|Minor
+Review Assignment|Minor
+Unit 1 Project|Major
+Midterm Assessment|Major
+Final Project|Major
